@@ -1,0 +1,2 @@
+# Dating_App
+DatingApp est une application web complète inspirée des plateformes de rencontre. Elle permet aux utilisateurs de :  S’inscrire et se connecter via un système d’authentification sécurisé (JWT).  Gérer leur profil (informations personnelles, photos, préférences).  Parcourir les autres membres et consulter leurs profils.  Envoyer et recevoir des messages en temps réel grâce à SignalR.  Voir l’état de connexion des utilisateurs (online/offline, présence en direct).  Utiliser une interface moderne et responsive grâce à Angular + TailwindCSS + DaisyUI.
